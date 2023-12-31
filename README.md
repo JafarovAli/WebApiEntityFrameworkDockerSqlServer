@@ -1,2 +1,2 @@
-Bu tetbiq docker-de run olunmush database vasitesi ile product datalarini chağırmaq üçün yaradılıb.
-Tetbiqi ishe salmazdan evvel database dockerde run olunmalidir.
+Bu tetbiq docker-de run olunmush database vasitesi ile product datalarini çağırmaq üçün yaradılıb.
+Tetbiqi işə salmazdan əvvəl database dockerde run olunmalidir.
